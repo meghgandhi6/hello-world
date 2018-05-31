@@ -4,6 +4,7 @@ small project
 Public class apple{
 public static void main()
 
+printf("Hello GitHUB");
 
 
 }
